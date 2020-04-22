@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Google-Login-Test"
+    }
+  },
+  "defaultProject": "Google-Login-Test",
+  "cli": {
+    "analytics": "e730c728-48ad-47c8-8c87-74f9cbf95dbd"
+  }
 }
